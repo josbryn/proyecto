@@ -1,0 +1,47 @@
+@font-face {
+     font-family:"Hola" ;
+     src: url('c:/pagina/m/f/Stick/s.ttf');
+    }
+@font-face {
+    font-family:"texto" ;
+    src: url('c:/pagina/m/f/Arvo/Arvo-Regular.ttf');
+}     
+    
+    
+    .uno{
+        font-family:"Hola";
+        font-size: 50px;
+        color: rgb(180, 169, 123);
+  
+
+    }
+    .dos{
+        position: center;
+        top: 200px;
+        margin:auto;
+        height: 350px;
+        width: 650px;
+        background-image: url(c:/pagina/m/im/aguila.jpg);
+        background-size: 100% 100%;
+    
+    }
+    p{
+        text-align: center;
+        left: 50%;
+        top: 50%;
+        transform: translateX(-50%) translateY(-50%);
+        font-size: 40px;
+        position: absolute;
+        color: rgb(255, 255, 255);
+        font-family: "texto";
+        background-image: url(c:/pagina/m/im/esta.jpg);
+        background-size: 100% 100%;
+
+    }
+
+    body {
+        background-image: url(c:/pagina/m/im/as.jpg);
+        background-size: 100% 100%;
+
+
+    }

@@ -1,0 +1,32 @@
+@font-face {
+    font-family:"Hola" ;
+    src: url('c:/pagina/m/f/Stick/s.ttf');
+   }
+@font-face {
+   font-family:"texto" ;
+   src: url('c:/pagina/m/f/Arvo/Arvo-Regular.ttf');
+}     
+.uuno{
+
+    font-family:"Hola";
+    font-size: 65px;
+    color: bisque;
+}
+p{
+    font-family: "texto";
+    font-size: 30px;
+    color: burlywood;
+    background-image: url('c:/pagina/m/im/este2.jpg');
+    position: absolute;
+    
+}
+
+.boton{
+
+    font-family:"texto";
+    font-size: 20px;
+    color: rgb(176, 177, 123);
+    background-color: rgb(0, 0, 0);
+    
+
+}
